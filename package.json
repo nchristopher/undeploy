@@ -14,6 +14,6 @@
 	"author": "Nicholas Christopher <nchristopher@tuta.io> (https://nchristopher.me)",
 	"license": "MIT",
 	"dependencies": {
-		"node-fetch": "^3.2.4"
+		"node-fetch": "^3.2.6"
 	}
 }
